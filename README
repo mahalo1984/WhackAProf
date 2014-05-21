@@ -49,5 +49,3 @@ Hopefully others will carry on.
 INFO
 
 The class TestDemo is where main is located. Main runs a class called Barker which is a bloated class that initializes the program, handles drawing, and processes game logic after user input is handled. You will also note there is a makefile. The current jar file was built using Java 1.7.0_55.
-
-test
